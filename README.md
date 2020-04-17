@@ -6,7 +6,7 @@ Wetectron is a software system that implements state-of-the-art weakly-supervise
 ### [Project](https://) | [Paper](https://arxiv.org/pdf/2004.04725.pdf) 
 
 Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection.<br>
-[Zhongzheng Ren](https://jason718.github.io/),  [Zhiding Yu](https://chrisding.github.io/), [Xiaodong Yang](http://xiaodongyang.org/), [Ming-Yu Liu](http://mingyuliu.net/), [Yong Jae Lee](https://web.cs.ucdavis.edu/~yjlee/), [Alexander G. Schwing](http://www.alexander-schwing.de/), [Jan Kautz](http://jankautz.com/),.<br>
+[Zhongzheng Ren](https://jason718.github.io/),  [Zhiding Yu](https://chrisding.github.io/), [Xiaodong Yang](http://xiaodongyang.org/), [Ming-Yu Liu](http://mingyuliu.net/), [Yong Jae Lee](https://web.cs.ucdavis.edu/~yjlee/), [Alexander G. Schwing](http://www.alexander-schwing.de/), [Jan Kautz](http://jankautz.com/).<br>
 In CVPR 2020.
 
 ## More details coming soon...
